@@ -1,0 +1,29 @@
+# exception_ko.yml
+unKnown:
+  code: "-5000"
+  msg: "알수 없는 오류가 발생하였습니다."
+methodArgumentNotValid:
+  code: "-4000"
+  msg: "잘못된 파라미터입니다."
+notWithInPeriod:
+  code: "-4001"
+  msg: "기간을 벗어났습니다."
+overNum:
+  code: "-4002"
+  msg: "정해진 인원을 초과했습니다."
+NotFound:
+  code: "-4040"
+  msg: "존재하지 않는 리소스입니다."
+empNotFound:
+  code: "-4041"
+  msg: "존재하지 않는 사원입니다."
+courseNotFound:
+  code: "-4042"
+  msg: "존재하지 교육과정입니다."
+requestNotFound:
+  code: "-4043"
+  msg: "존재하지 교육신청입니다."
+resultNotFound:
+  code: "-4044"
+  msg: "존재하지 교육결과입니다."
+  
